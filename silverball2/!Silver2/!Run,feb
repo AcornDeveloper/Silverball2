@@ -1,0 +1,29 @@
+WimpSlot -min 1664k
+Set SilverBall$Dir <Obey$Dir>
+Echo <22><15>
+Echo <23><1><0><0><0><0><0><0><0><0>
+<SilverBall$Dir>.SineTable
+<SilverBall$Dir>.G13
+<SilverBall$Dir>.SoundPlay
+<SilverBall$Dir>.Display
+<SilverBall$Dir>.Samples.boing
+<SilverBall$Dir>.Samples.bump
+<SilverBall$Dir>.Samples.count
+<SilverBall$Dir>.Samples.cymbal
+<SilverBall$Dir>.Samples.extra
+<SilverBall$Dir>.Samples.flipper
+<SilverBall$Dir>.Samples.funny
+<SilverBall$Dir>.Samples.hole
+<SilverBall$Dir>.Samples.laser
+<SilverBall$Dir>.Samples.laugh
+<SilverBall$Dir>.Samples.metal
+<SilverBall$Dir>.Samples.note
+<SilverBall$Dir>.Samples.phasor
+<SilverBall$Dir>.Samples.pin
+<SilverBall$Dir>.Samples.reject
+<SilverBall$Dir>.Samples.spring
+<SilverBall$Dir>.Samples.start
+<SilverBall$Dir>.Samples.victory
+<SilverBall$Dir>.Samples.warble
+<SilverBall$Dir>.Samples.wobble
+<SilverBall$Dir>.!RunImage

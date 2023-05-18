@@ -1,0 +1,112 @@
+SILVERBALL 2
+------------
+Silverball 2 is the follow up to Silverball, a pinball simulator, that also contains an
+editor in which you can design your own tables, having full control of all aspects of the
+game from the number of flippers, pins, bumpers, runovers and the physical environment
+the pinball table operates in. Up to four players can play the game in turns.
+Highscores and names are saved to disc.
+
+ATTRACT MODE
+------------
+Initially the game will scroll up and down the table bringing the highscore table
+in and out of view with a bouncing text header containing game production information.
+
+MAIN KEYS
+---------
+ESC - return to main screen from anywhere in the game
+F1  - play game
+F2  - enter editor
+F3  - pause/release
+F4  - mouse/keyboard
+F6  - sound off/on
+F7  - volume up
+F8  - volume down
+F9  - mouse sensitivity up
+F10 - mouse sensitivity down
+F11 - number of players, from 1 to 4
+F12 - quit, requires Y/N confirmation to return to the desktop
+
+In this description for the mouse buttons:-
+
+Select - left hand button
+Menu   - middle button
+Adjust - right hand button
+
+MOUSE
+-----
+Select - left flipper(s), hold to keep flipper up
+Menu   - fire ball, press and release at the required power
+Adjust - right flipper(s), hold to keep flipper up
+
+SPACE  - tilt the table when you want the ball to change direction to your
+         advantage, if too much then the table will tilt and flippers will be dead
+         to allow the ball to exit play
+
+TABLE DESIGN
+------------
+When in the editor a horizontal panel with a number of animated icons are displayed
+with informational rows.
+
+As you edit the table this may be flipped from top to bottom and vice-versa by pressing
+the Menu button in order that all parts of the table can be accessed to place objects.
+
+ICON DESCRIPTIONS
+-----------------
+GREEN TICK
+----------
+Pull up a table controlling properties of the table, click on tick boxes or
+up/down icons to change values.
+
+(1) Grid. A grid to align objects while placing them on the table.
+
+(2) Table scroll. Scroll the table up and down while playing or keep it static.
+
+(3) Balls. The number of balls per game, use left/right arrows to increase the digits.
+
+(4) Backdrop. Use left arrow to select one of four available table backdrops.
+
+(5) Default. Reset the table values to their default.
+
+DISC IN
+-------
+Load table, type in the file name at the prompt in the editor panel and press Return.
+
+DISC OUT
+--------
+Save table, type in the file name at the prompt in the editor panel and press Return.
+
+FOLDER
+------
+Catalogue table names saved on disc.
+
+TABLE
+-----
+Clear table of all objects.
+
+GREEN ARROW
+-----------
+Clear all table of the currently named object in the editor panel.
+
+HORIZONTAL ARROWS
+-----------------
+Use Select and Adjust to go through the table parts available. Briefly click with Select
+to see where the object will be placed, longer click to place on the table. Object placement
+by adjacent objects is to pixel level. Flippers have a red box around them in which no
+objects can be placed to accomodate their movement during the game. Click Adjust when over
+an object to remove from the table.
+
+VERTICAL ARROWS
+---------------
+Use Select and Adjust to scroll up and down the table to position pieces.
+
+TABLE PHYSICAL PROPERTIES
+-------------------------
+There are five separate sliders controlling the physical properties of the table.
+Simply click on at the required position from off to full on or Select, hold the button
+down and drag.
+
+GRAVITY   - gravity strength from weak to strong
+VISCOSITY - the medium thickness the ball moves through
+PIN       - pin power when ball hits it
+FLIPPER   - flipper power when hitting ball
+TILT      - sensitivity of the table to tilting
